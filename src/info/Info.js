@@ -32,20 +32,24 @@ export const info = {
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by adrak chai'
+            emoji: '👩‍💻',
+            text: 'MERN stack'
         },
         {
             emoji: '🌎',
             text: 'based in the India'
         },
         {
-            emoji: "🏫",
-            text: "Computer Science Student at SRMIST"
+            emopji: "🏢",
+            text: "Budding Software Engineer"
         },
         {
             emoji: "📧",
             text: "ananyasrivastava2804@gmail.com"
+        },
+        {
+            emoji: "🏫",
+            text: "Computer Science Student at SRMIST"
         }
     ],
     socials: [
@@ -82,25 +86,25 @@ export const info = {
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma', 'nodejs'],
-            exposedTo: ['python', 'adobe illustrator']
+            exposedTo: ['python', 'adobe photoshop']
         }
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
-        },
-        {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'coding',
+            emoji: '👩‍💻'
         },
         {
             label: 'movies',
             emoji: '🎥'
         },
         {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'Food',
+            emoji: '🍓'
+        },
+        {
+            label: 'reading',
+            emoji: '📖'
         }
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
